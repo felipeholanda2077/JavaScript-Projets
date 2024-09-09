@@ -1,0 +1,14 @@
+{
+  "name": "fast_faces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Holanda",
+  "license": "ISC",
+  "dependencies": {
+    "@azure-rest/ai-vision-face": "^1.0.0-beta.1"
+  }
+}
